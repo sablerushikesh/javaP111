@@ -7,4 +7,8 @@ public class A {
 		System.out.println("Hello rushikesh");
 	}
 
+	public void m1()
+	{
+		System.out.println("this is m1");
+	}
 }
